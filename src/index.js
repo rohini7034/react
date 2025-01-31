@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import ListItem from'./list/ListItem';
-import Header from './list/Component/Header';
-import Footer from './list/Component/Footer';
+import Header from './Component/Header';
+import Footer from './Component/Footer';
 import List from './list/List';
 
 
